@@ -21,6 +21,7 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 - [autogit-plugin-pull](https://github.com/fabiospampinato/autogit-plugin-pull) - A plugin for pulling from a remote.
 - [autogit-plugin-push](https://github.com/fabiospampinato/autogit-plugin-push) - A plugin for pushing to a remote.
 - [autogit-plugin-replace](https://github.com/fabiospampinato/autogit-plugin-replace) - A plugin for performing string replacements.
+- [autogit-plugin-rollback](https://github.com/fabiospampinato/autogit-plugin-rollback): A plugin for rolling back the history to that of the origin and discarding local changes.
 
 ## Templates
 
