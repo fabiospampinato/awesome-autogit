@@ -5,8 +5,11 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 
 ## Commands
 
+- [autogit-command-fetch](https://github.com/fabiospampinato/autogit-command-fetch) - A command for fetching from a remote.
 - [autogit-command-github-publish](https://github.com/fabiospampinato/autogit-command-github-publish) - A command for publishing repositories to GitHub.
 - [autogit-command-github-sync](https://github.com/fabiospampinato/autogit-command-github-sync) - A command for synchronizing repositories with GitHub.
+- [autogit-command-pull](https://github.com/fabiospampinato/autogit-command-pull) - A command for pulling from a remote.
+- [autogit-command-push](https://github.com/fabiospampinato/autogit-command-push) - A command for pushing to a remote.
 - [autogit-command-readme-autocommit](https://github.com/fabiospampinato/autogit-command-readme-autocommit) - A command for autocommitting changes to the readme.
 - [autogit-command-rollback](https://github.com/fabiospampinato/autogit-command-rollback) - A command for rolling back the history to that of the origin and discarding local changes.
 - [autogit-command-shell](https://github.com/fabiospampinato/autogit-command-shell) - A command for executing a plain shell command.
