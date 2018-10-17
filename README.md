@@ -8,6 +8,7 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 - [autogit-command-github-publish](https://github.com/fabiospampinato/autogit-command-github-publish) - A command for publishing repositories to GitHub.
 - [autogit-command-github-sync](https://github.com/fabiospampinato/autogit-command-github-sync) - A command for synchronizing repositories with GitHub.
 - [autogit-command-readme-autocommit](https://github.com/fabiospampinato/autogit-command-readme-autocommit) - A command for autocommitting changes to the readme.
+- [autogit-command-rollback](https://github.com/fabiospampinato/autogit-command-rollback) - A command for rolling back the history to that of the origin and discarding local changes.
 - [autogit-command-shell](https://github.com/fabiospampinato/autogit-command-shell) - A command for executing a plain shell command.
 - [autogit-command-status](https://github.com/fabiospampinato/autogit-command-status) - A command for showing the status of repositories.
 
@@ -21,7 +22,7 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 - [autogit-plugin-pull](https://github.com/fabiospampinato/autogit-plugin-pull) - A plugin for pulling from a remote.
 - [autogit-plugin-push](https://github.com/fabiospampinato/autogit-plugin-push) - A plugin for pushing to a remote.
 - [autogit-plugin-replace](https://github.com/fabiospampinato/autogit-plugin-replace) - A plugin for performing string replacements.
-- [autogit-plugin-rollback](https://github.com/fabiospampinato/autogit-plugin-rollback): A plugin for rolling back the history to that of the origin and discarding local changes.
+- [autogit-plugin-rollback](https://github.com/fabiospampinato/autogit-plugin-rollback) - A plugin for rolling back the history to that of the origin and discarding local changes.
 
 ## Templates
 
