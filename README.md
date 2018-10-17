@@ -20,6 +20,7 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 - [autogit-plugin-gitignore](https://github.com/fabiospampinato/autogit-plugin-gitignore) - A plugin for manipulating `.gitignore`.
 - [autogit-plugin-pull](https://github.com/fabiospampinato/autogit-plugin-pull) - A plugin for pulling from a remote.
 - [autogit-plugin-push](https://github.com/fabiospampinato/autogit-plugin-push) - A plugin for pushing to a remote.
+- [autogit-plugin-replace](https://github.com/fabiospampinato/autogit-plugin-replace) - A plugin for performing string replacements.
 
 ## Templates
 
