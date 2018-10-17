@@ -15,6 +15,7 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 ## Plugins
 
 - [autogit-plugin-autocommit](https://github.com/fabiospampinato/autogit-plugin-autocommit) - A plugin for automatically making a commit when specific files change.
+- [autogit-plugin-fetch](https://github.com/fabiospampinato/autogit-plugin-fetch) - A plugin for fetching from a remote.
 - [autogit-plugin-github-publish](https://github.com/fabiospampinato/autogit-plugin-github-publish) - A plugin for publishing repositories to GitHub.
 - [autogit-plugin-github-sync-description](https://github.com/fabiospampinato/autogit-plugin-github-sync-description) - A plugin for synchronizing the description with GitHub.
 - [autogit-plugin-github-sync-keywords](https://github.com/fabiospampinato/autogit-plugin-github-sync-keywords) - A plugin for synchronizing the keywords with GitHub.
