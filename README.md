@@ -30,6 +30,7 @@ Curated list of resources for [autogit](https://github.com/fabiospampinato/autog
 - [autogit-plugin-replace](https://github.com/fabiospampinato/autogit-plugin-replace) - A plugin for performing string replacements.
 - [autogit-plugin-rollback](https://github.com/fabiospampinato/autogit-plugin-rollback) - A plugin for rolling back the history to that of the origin and discarding local changes.
 - [autogit-plugin-stage](https://github.com/fabiospampinato/autogit-plugin-stage) - A plugin for staging files.
+- [autogit-plugin-summary](https://github.com/fabiospampinato/autogit-plugin-summary) - A plugin for displaying a summary of all the changes in the working tree.
 
 ## Templates
 
